@@ -1,0 +1,45 @@
+G:\OneDrive - Centre d'Estudis Monlau\2ºDAM\M7\P02\P02\bin\Debug\P02.exe.config
+G:\OneDrive - Centre d'Estudis Monlau\2ºDAM\M7\P02\P02\bin\Debug\P02.exe
+G:\OneDrive - Centre d'Estudis Monlau\2ºDAM\M7\P02\P02\bin\Debug\P02.pdb
+G:\OneDrive - Centre d'Estudis Monlau\2ºDAM\M7\P02\P02\obj\Debug\P02.csproj.AssemblyReference.cache
+G:\OneDrive - Centre d'Estudis Monlau\2ºDAM\M7\P02\P02\obj\Debug\P02.Form1.resources
+G:\OneDrive - Centre d'Estudis Monlau\2ºDAM\M7\P02\P02\obj\Debug\P02.Properties.Resources.resources
+G:\OneDrive - Centre d'Estudis Monlau\2ºDAM\M7\P02\P02\obj\Debug\P02.csproj.GenerateResource.cache
+G:\OneDrive - Centre d'Estudis Monlau\2ºDAM\M7\P02\P02\obj\Debug\P02.csproj.CoreCompileInputs.cache
+G:\OneDrive - Centre d'Estudis Monlau\2ºDAM\M7\P02\P02\obj\Debug\P02.exe
+G:\OneDrive - Centre d'Estudis Monlau\2ºDAM\M7\P02\P02\obj\Debug\P02.pdb
+G:\OneDrive - Centre d'Estudis Monlau\2ºDAM\M7\P02\P02\obj\Debug\P02.Form2.resources
+E:\2DAM\M7\P02\P02\obj\Debug\P02.csproj.AssemblyReference.cache
+E:\2DAM\M7\P02\P02\obj\Debug\P02.exe
+E:\2DAM\M7\P02\P02\obj\Debug\P02.pdb
+E:\2DAM\M7\P02\P02\bin\Debug\P02.exe.config
+E:\2DAM\M7\P02\P02\bin\Debug\P02.exe
+E:\2DAM\M7\P02\P02\bin\Debug\P02.pdb
+E:\2DAM\M7\P02\P02\obj\Debug\P02.Form1.resources
+E:\2DAM\M7\P02\P02\obj\Debug\P02.Form2.resources
+E:\2DAM\M7\P02\P02\obj\Debug\P02.Properties.Resources.resources
+E:\2DAM\M7\P02\P02\obj\Debug\P02.csproj.GenerateResource.cache
+E:\2DAM\M7\P02\P02\obj\Debug\P02.csproj.CoreCompileInputs.cache
+E:\2DAM\M7\P02\P02\obj\Debug\Interop.MediaPlayer.dll
+E:\2DAM\M7\P02\P02\obj\Debug\Interop.WMPLib.dll
+E:\2DAM\M7\P02\P02\obj\Debug\AxInterop.WMPLib.dll
+E:\2DAM\M7\P02\P02\obj\Debug\P02.csproj.ResolveComReference.cache
+E:\2DAM\M7\P02\P02\bin\Debug\Interop.WMPLib.dll
+E:\2DAM\M7\P02\P02\bin\Debug\AxInterop.WMPLib.dll
+E:\2DAM\M7\P02\bin\Debug\P02.exe.config
+E:\2DAM\M7\P02\bin\Debug\P02.exe
+E:\2DAM\M7\P02\bin\Debug\P02.pdb
+E:\2DAM\M7\P02\bin\Debug\Interop.WMPLib.dll
+E:\2DAM\M7\P02\bin\Debug\AxInterop.WMPLib.dll
+E:\2DAM\M7\P02\obj\Debug\P02.csproj.AssemblyReference.cache
+E:\2DAM\M7\P02\obj\Debug\Interop.MediaPlayer.dll
+E:\2DAM\M7\P02\obj\Debug\Interop.WMPLib.dll
+E:\2DAM\M7\P02\obj\Debug\AxInterop.WMPLib.dll
+E:\2DAM\M7\P02\obj\Debug\P02.csproj.ResolveComReference.cache
+E:\2DAM\M7\P02\obj\Debug\P02.Form1.resources
+E:\2DAM\M7\P02\obj\Debug\P02.Form2.resources
+E:\2DAM\M7\P02\obj\Debug\P02.Properties.Resources.resources
+E:\2DAM\M7\P02\obj\Debug\P02.csproj.GenerateResource.cache
+E:\2DAM\M7\P02\obj\Debug\P02.csproj.CoreCompileInputs.cache
+E:\2DAM\M7\P02\obj\Debug\P02.exe
+E:\2DAM\M7\P02\obj\Debug\P02.pdb
